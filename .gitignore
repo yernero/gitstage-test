@@ -1,0 +1,3 @@
+# GitStage
+.gitstage/*
+!.gitstage_config.json
